@@ -1,0 +1,2 @@
+# Only required for the transcribe command; validate/srt use the standard library.
+faster-whisper>=1.1,<2

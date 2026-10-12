@@ -1,0 +1,18 @@
+{
+  "source": "demo-input.mp4",
+  "notes": "Original demonstration text; no video file is included.",
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "en": "Let's check the sound before we start.",
+      "zh": "开始之前，我们先检查一下声音。"
+    },
+    {
+      "start": 3.5,
+      "end": 6.0,
+      "en": "Keep the original file so we can make changes later.",
+      "zh": "保留原文件，方便之后修改。"
+    }
+  ]
+}

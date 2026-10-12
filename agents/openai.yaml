@@ -1,0 +1,6 @@
+interface:
+  display_name: "剪映中英双语字幕"
+  short_description: "将英文视频转写、语境校正并生成自然中英双语字幕及剪映草稿"
+  default_prompt: "使用 $jianying-bilingual-subtitles 为当前文件夹中的英文视频生成语境校正后的中英双语字幕和剪映草稿。"
+policy:
+  allow_implicit_invocation: true

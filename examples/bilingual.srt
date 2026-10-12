@@ -1,0 +1,9 @@
+﻿1
+00:00:00,000 --> 00:00:03,000
+Let's check the sound before we start.
+开始之前，我们先检查一下声音。
+
+2
+00:00:03,500 --> 00:00:06,000
+Keep the original file so we can make changes later.
+保留原文件，方便之后修改。
